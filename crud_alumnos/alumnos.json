@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 20,
+        "grado": "Segundo",
+        "email": "juan.perez@example.com"
+    },
+    {
+        "id": 2,
+        "nombre": "María García",
+        "edad": 22,
+        "grado": "Cuarto",
+        "email": "maria.garcia@example.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis Martínez",
+        "edad": 19,
+        "grado": "Primero",
+        "email": "luis.martinez@example.com"
+    }
+]
